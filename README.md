@@ -1,2 +1,5 @@
 # Simple-ATM
-Simple ATM using Java in console
+Simple ATM in console
+
+Programming Language: Java
+IDE: Netbeans
